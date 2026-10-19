@@ -1,5 +1,7 @@
 # clog-follow-spring
 
+[![CI](https://github.com/miginho12/clog-follow-spring/actions/workflows/ci.yml/badge.svg)](https://github.com/miginho12/clog-follow-spring/actions/workflows/ci.yml)
+
 [clog-backend](https://github.com/miginho12/clog-backend)(FastAPI)의 **승인제 팔로우 상태 전이**를 Spring Boot + JPA + JUnit 5로 작게 다시 구현한 학습용 레포입니다.
 알림 연동, 인증 같은 부가 기능은 빼고 상태 전이 규칙과 영속성만 남겼습니다.
 
